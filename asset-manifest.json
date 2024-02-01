@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quaMovies/static/css/main.2cfe942d.css",
+    "main.js": "/quaMovies/static/js/main.28428cd9.js",
+    "static/js/787.cc6a196a.chunk.js": "/quaMovies/static/js/787.cc6a196a.chunk.js",
+    "index.html": "/quaMovies/index.html",
+    "main.2cfe942d.css.map": "/quaMovies/static/css/main.2cfe942d.css.map",
+    "main.28428cd9.js.map": "/quaMovies/static/js/main.28428cd9.js.map",
+    "787.cc6a196a.chunk.js.map": "/quaMovies/static/js/787.cc6a196a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cfe942d.css",
+    "static/js/main.28428cd9.js"
+  ]
+}
