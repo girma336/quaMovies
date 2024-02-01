@@ -20,7 +20,6 @@ function App() {
         <Routes>
           <Route path='/' element={<Dashboard setDetail={setDetail} />} />
           <Route path='/details' element={<MovieDetaile detail={detaile} />} />
-
         </Routes>
       </BrowserRouter>
     </div>
